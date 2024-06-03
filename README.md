@@ -32,8 +32,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/papeleria-app.git
-    cd papeleria-app
+    git clone https://github.com/UTS23/Papeleria.git
+    cd Papeleria
     ```
 
 2. Configura MongoDB:
@@ -45,7 +45,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
     Modifica el archivo `src/main/resources/application.properties` según sea necesario:
 
     ```properties
-    spring.data.mongodb.uri=mongodb://localhost:27017/papeleria_db
+   spring.data.mongodb.uri = mongodb+srv://tu_saurio:<password>@sdsdsds.issdsdsd.mongodb.net/Papeleria
     server.port=8080
     ```
 
@@ -139,6 +139,9 @@ Evidencias del Funcionomiento.
 ![image](https://github.com/UTS23/Papeleria/assets/112002842/da93e129-ebba-4b01-8277-c4fa989bb620)
 ![image](https://github.com/UTS23/Papeleria/assets/112002842/db9ce8e9-0dd7-428f-a6bb-62c080d6ee59)
 ![image](https://github.com/UTS23/Papeleria/assets/112002842/6473619a-e5b4-4187-b00b-c0ae740e8f90)
+
+AP desplegueadas en render
+https://papeleria.onrender.com/ 
 
 
 
