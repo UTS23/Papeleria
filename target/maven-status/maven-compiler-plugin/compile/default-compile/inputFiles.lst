@@ -1,24 +1,24 @@
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\repositorio\UserRepository.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\FinalizarCompraController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\service\UserService.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\UserRestController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\admin2Controller.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\UserController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\repositorio\ProductoRepository.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\service\CarritoService.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\ProductoRestController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\entidades\User.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\repositorio\AdminRepository.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\exception\NotFoundException.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\AdminController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\CarritoRestController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\PapeleriaApplication.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\service\ProductoService.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\entidades\Admin.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\AterrizajeController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\AuthController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\ProductoController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\service\UserServiceImpl.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\AdminRestController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\controller\CarritoController.java
-C:\Users\BRAYAN MORENO\Pictures\Papeleria\src\main\java\com\papeleria\app\entidades\Producto.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/repositorio/UserRepository.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/AdminRestController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/ProductoController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/UserRestController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/service/UserServiceImpl.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/exception/NotFoundException.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/repositorio/ProductoRepository.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/entidades/User.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/AuthController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/UserController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/ProductoRestController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/AdminController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/FinalizarCompraController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/service/CarritoService.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/service/ProductoService.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/entidades/Admin.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/PapeleriaApplication.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/admin2Controller.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/AterrizajeController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/service/UserService.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/repositorio/AdminRepository.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/CarritoRestController.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/entidades/Producto.java
+/workspaces/Papeleria/src/main/java/com/papeleria/app/controller/CarritoController.java
